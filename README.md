@@ -1,5 +1,6 @@
 # Applied-Cryptography
 Homework, Quizzez and Assignments
+
 Assignment-1
 1.	Implement a 32-bit LFSR. Use 
 p(X) = X^{32} + X^{22} + X^{2} + X^{1} +  1
