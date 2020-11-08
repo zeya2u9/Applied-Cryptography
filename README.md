@@ -23,3 +23,12 @@ Sol: Input:: all 0’s
 Key:: take from user in hex format(for any byte length)
 Output:: Code will print the encrypted text in hex format which can be verified from below test vectors for RC4 provided by IETF
 https://tools.ietf.org/html/rfc6229
+
+
+Assignment-2
+1. Twofish - my_two.c
+2. AES  - AES.c
+3. small scale variant of the SPN Present from - Small Scale Variants Of The Block Cipher-PRESENT.pdf
+  (a) Implementation - smallPresent.py
+  (b) Linear cryptanalysis 
+  (c) Differential Cryptanalysis
