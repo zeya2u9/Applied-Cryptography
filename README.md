@@ -27,8 +27,13 @@ https://tools.ietf.org/html/rfc6229
 
 Assignment-2
 1. Twofish - my_two.c
+
 2. AES  - AES.c
+
 3. small scale variant of the SPN Present from - Small Scale Variants Of The Block Cipher-PRESENT.pdf
+
   (a) Implementation - smallPresent.py
+  
   (b) Linear cryptanalysis 
+  
   (c) Differential Cryptanalysis
