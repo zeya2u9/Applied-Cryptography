@@ -37,3 +37,22 @@ Assignment-2
   (b) Linear cryptanalysis 
   
   (c) Differential Cryptanalysis
+  
+  
+Assignment-3
+(For this assignment you are required to use 64-bit integers to store and do the underlying basic arithmetic operations. If you are using python programming language then you must use numpy.uint64 and numpy.int64 for storing unsigned and signed integers respectively)
+1.	Write programs that take as input 3 n-bit numbers x, y and N and computes the following.
+        a.	(x + y) mod N                                                                                                     
+        b.	x.y mod N                                                                                                          
+    Note that n is typically much larger than 64.
+2.	Write programs to implement the following for n-bit numbers.
+        a.	Euclidean algorithm                                                                                           
+        b.	Extended euclidean algorithm                                                                           
+        c.	Multiplicative inverse algorithm                                                                          
+        d.	Square and Multiply algorithm                                                                           
+3.	Write a program that computes the Jacobi symbol (a/N).                                             
+4.	Implement the Solovay-Strassen and the Miller-Rabin algorithm for primality testing. 
+5.	Implement the plain RSA encryption scheme
+
+  
+  
